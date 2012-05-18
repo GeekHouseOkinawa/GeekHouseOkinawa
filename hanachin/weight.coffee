@@ -1,5 +1,6 @@
 weights =
   "2012-05-17": 79.8
+  "2012-05-18": 79.6
 
 date_format = (d) ->
   d = new Date d
