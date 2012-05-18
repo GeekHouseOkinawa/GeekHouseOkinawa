@@ -3,7 +3,8 @@
   var date, date_format, img, k, params, prev_weight, today, url, v, weight, weights, weights_data, x;
 
   weights = {
-    "2012-05-17": 79.8
+    "2012-05-17": 79.8,
+    "2012-05-18": 79.6
   };
 
   date_format = function(d) {
